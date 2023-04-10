@@ -1,0 +1,6 @@
+	['kolica'] = {
+		label = 'Invalidska kolica',
+		weight = 1,
+		stack = true,
+		close = true
+	},
